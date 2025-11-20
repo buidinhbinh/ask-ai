@@ -6,10 +6,10 @@ import threading
 
 
 # ====== CONFIG ======
-TELEGRAM_TOKEN = "7698723495:AAFxkZJZujFcci0fn6fEGTOvtwB4Eyw0G3c"
+TELEGRAM_TOKEN = "token telegram"
 
 # 👉 Ở ĐÂY — Bạn thay token Discord mới vào đây (KHÔNG gửi lên đây)
-DISCORD_TOKEN = "MTQ0MDI5NjM2NzkwMDU5MDIyMQ.G0g_gF.cwUwZoNnV6Sve5ThQaDuNYrpSZk0R7DvOSOFVE"
+DISCORD_TOKEN = "token discord"
 
 API_BASE = "https://bj-microsoft-search-ai.vercel.app/"
 
@@ -133,3 +133,4 @@ if __name__ == "__main__":
 
     t1.join()
     t2.join()
+

@@ -1,2 +1,3 @@
 # ask-ai
-chat với ai két nối với discord + telegram
+chat với ai kết nối với discord + telegram
+
